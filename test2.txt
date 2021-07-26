@@ -2,3 +2,4 @@
 2.Group execution by mark
 3.Class execution by mark
 4. XML file excution by Jose
+5.ArrayList By Mark
